@@ -1,0 +1,447 @@
+{
+ "marke": "Lockschuppen Die Friseure",
+ "titel": "Lockschuppen Die Friseure | Friseur in Aubing, Sendling, Fürstenried und Starnberg",
+ "beschreibung": "Lockschuppen Die Friseure: vier Salons im Münchner Westen und in Starnberg. Schnitt, Farbe, Strähnen und Hochsteckfrisuren für Damen, Herren und Kinder.",
+ "riesen": [
+  "Lockschuppen"
+ ],
+ "h1": [
+  "Schnitt, Farbe, Festfrisur.",
+  "Vier Salons im Münchner Südwesten."
+ ],
+ "etikett": "Die Friseure · München & Starnberg",
+ "ring_titel": "Vier Salons. Immer in der Nähe.",
+ "wortmarke_html": "<b>Lockschuppen</b><i>Die Friseure</i>",
+ "schema_typ": "HairSalon",
+ "thema": {
+  "a": "#9fd43c",
+  "hell": "#d0f08c",
+  "eis": "#f1fcd9",
+  "tief": "#5d8f12",
+  "grund": "#030302",
+  "zusatz_css": "zusatz.css"
+ },
+ "licht": {
+  "blau": "#8cc927",
+  "eis": "#e4f7b8",
+  "glas": "#f0ffd6",
+  "wolken": [
+   "#4f7d0c",
+   "#9fd43c",
+   "#f4ffd8"
+  ],
+  "winkel": 0.4
+ },
+ "leistungen_titel": "Was wir für Sie tun.",
+ "leistungen_text": "Persönliche Beratung steht bei uns am Anfang. Danach Handwerk für Damen, Herren und Kinder.",
+ "leistungen": [
+  {
+   "name": "Beratung",
+   "text": "Wir nehmen uns Zeit. Für Typ, Haar und Alltag. Erst dann wird geschnitten."
+  },
+  {
+   "name": "Schnitt",
+   "text": "Haarschnitte für Damen, Herren und Kinder. Klassisch oder nach aktuellem Trend."
+  },
+  {
+   "name": "Farbe & Strähnen",
+   "text": "Kreative Farb- und Strähnentechniken. Von natürlich bis ausdrucksstark."
+  },
+  {
+   "name": "Hochsteckfrisuren",
+   "text": "Für Hochzeit, Ball und Wiesn. Klassisch oder modern gesteckt."
+  },
+  {
+   "name": "Umformung",
+   "text": "Mehr Volumen und Bewegung. Locken und Wellen, die lange halten."
+  },
+  {
+   "name": "Make-up & Massage",
+   "text": "Typgerechtes Make-up, entspannende Kopf- und Handmassagen. Dazu Best-Ager-Beratung für Frisur, Make-up und Schmuck."
+  }
+ ],
+ "galerie_titel": "Einblicke in die Salons.",
+ "galerie": [
+  [
+   "g-aubing-wasch",
+   "Waschplätze mit Ledersofa im Salon Aubing"
+  ],
+  [
+   "g-sendling-raum",
+   "Arbeitsplätze im Salon Sendling"
+  ],
+  [
+   "g-starnberg-plaetze",
+   "Spiegelplätze im Salon Starnberg"
+  ],
+  [
+   "g-fuerstenried-warten",
+   "Wartebereich im Salon Fürstenried"
+  ],
+  [
+   "g-aubing-raum",
+   "Blick in den Salon Aubing"
+  ],
+  [
+   "g-sendling-wasch",
+   "Waschplätze im Salon Sendling"
+  ]
+ ],
+ "social": [],
+ "quellen": "lockschuppen-diefriseure.de, OpenStreetMap",
+ "stand": "Oktober 2026",
+ "original_impressum": "https://www.lockschuppen-diefriseure.de/impressum.html",
+ "salons": [
+  {
+   "id": "aubing",
+   "name": "Lockschuppen Aubing",
+   "kurzname": "Aubing",
+   "glas": "AUBING",
+   "lage": "Aubing",
+   "lage_lang": "Aubing, am Westkreuz",
+   "strasse": "Mainaustr. 52",
+   "plz": "81243",
+   "ort": "München",
+   "tel": "089 834 36 13",
+   "tel_int": "+49898343613",
+   "zeiten": {
+    "1": [
+     [
+      9,
+      18
+     ]
+    ],
+    "2": [
+     [
+      9,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      18
+     ]
+    ],
+    "6": [
+     [
+      8,
+      13
+     ]
+    ],
+    "0": []
+   },
+   "zeiten_text": "Mo bis Fr 9:00 bis 18:00 · Sa 8:00 bis 13:00",
+   "buchen": "",
+   "karte": "front-aubing",
+   "karte_alt": "Ladenfront des Salons Aubing mit Sitzplätzen vor dem Eingang",
+   "lat": 48.1487991,
+   "lon": 11.434573,
+   "h1": "Aubing",
+   "beschreibung": "Lockschuppen Die Friseure in Aubing, Mainaustr. 52. Schnitt, Farbe und Hochsteckfrisuren. Mo bis Fr 9 bis 18 Uhr, Sa 8 bis 13 Uhr. Termin per Telefon.",
+   "hinweise": [
+    "Termin per Telefon",
+    "Ganz in der Nähe der S-Bahn Westkreuz"
+   ],
+   "glas_hoch": "AU|BING"
+  },
+  {
+   "id": "sendling",
+   "name": "Lockschuppen Sendling",
+   "kurzname": "Sendling",
+   "glas": "SENDLING",
+   "lage": "Sendling",
+   "lage_lang": "Untersendling, an der Pfeuferstraße",
+   "strasse": "Pfeuferstr. 33",
+   "plz": "81373",
+   "ort": "München",
+   "tel": "089 77 93 57",
+   "tel_int": "+4989779357",
+   "zeiten": {
+    "1": [],
+    "2": [
+     [
+      9,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      18
+     ]
+    ],
+    "6": [
+     [
+      8,
+      13
+     ]
+    ],
+    "0": []
+   },
+   "zeiten_text": "Di bis Fr 9:00 bis 18:00 · Sa 8:00 bis 13:00",
+   "buchen": "",
+   "karte": "front-sendling",
+   "karte_alt": "Arbeitsplätze im hellen Salon Sendling",
+   "lat": 48.1246043,
+   "lon": 11.5413115,
+   "h1": "Sendling",
+   "beschreibung": "Lockschuppen Die Friseure in Sendling, Pfeuferstr. 33. Schnitt, Farbe und Hochsteckfrisuren. Di bis Fr 9 bis 18 Uhr, Sa 8 bis 13 Uhr. Termin per Telefon.",
+   "hinweise": [
+    "Termin per Telefon",
+    "Montag geschlossen"
+   ],
+   "glas_hoch": "SEND|LING"
+  },
+  {
+   "id": "fuerstenried",
+   "name": "Lockschuppen Fürstenried",
+   "kurzname": "Fürstenried",
+   "glas": "FÜRSTENRIED",
+   "lage": "Fürstenried",
+   "lage_lang": "Fürstenried West, an der Engadiner Straße",
+   "strasse": "Engadinerstr. 2",
+   "plz": "81475",
+   "ort": "München",
+   "tel": "089 75 19 68",
+   "tel_int": "+4989751968",
+   "zeiten": {
+    "1": [
+     [
+      9,
+      18
+     ]
+    ],
+    "2": [
+     [
+      9,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      18
+     ]
+    ],
+    "6": [
+     [
+      8,
+      13
+     ]
+    ],
+    "0": []
+   },
+   "zeiten_text": "Mo bis Fr 9:00 bis 18:00 · Sa 8:00 bis 13:00",
+   "buchen": "",
+   "karte": "front-fuerstenried",
+   "karte_alt": "Schaufenster des Salons Fürstenried mit Schriftzug Lockschuppen Die Friseure",
+   "lat": 48.0894345,
+   "lon": 11.4809278,
+   "h1": "Fürstenried",
+   "beschreibung": "Lockschuppen Die Friseure in Fürstenried, Engadinerstr. 2. Schnitt, Farbe und Hochsteckfrisuren. Mo bis Fr 9 bis 18 Uhr, Sa 8 bis 13 Uhr. Termin per Telefon.",
+   "hinweise": [
+    "Termin per Telefon"
+   ],
+   "glas_hoch": "FÜRSTEN|RIED"
+  },
+  {
+   "id": "starnberg",
+   "name": "Lockschuppen Starnberg",
+   "kurzname": "Starnberg",
+   "glas": "STARNBERG",
+   "lage": "Starnberg",
+   "lage_lang": "Starnberg, im Stadtmarkt an der Josef-Jägerhuber-Straße",
+   "strasse": "Josef-Jägerhuber-Str. 7",
+   "plz": "82319",
+   "ort": "Starnberg",
+   "tel": "08151 142 76",
+   "tel_int": "+49815114276",
+   "zeiten": {
+    "1": [],
+    "2": [
+     [
+      9,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      18
+     ]
+    ],
+    "6": [
+     [
+      9,
+      14
+     ]
+    ],
+    "0": []
+   },
+   "zeiten_text": "Di bis Fr 9:00 bis 18:00 · Sa 9:00 bis 14:00",
+   "buchen": "",
+   "karte": "front-starnberg",
+   "karte_alt": "Empfang des Salons Starnberg mit Schriftzug Lockschuppen Die Friseure",
+   "lat": 48.0007018,
+   "lon": 11.3443744,
+   "h1": "Starnberg",
+   "beschreibung": "Lockschuppen Die Friseure in Starnberg, Josef-Jägerhuber-Str. 7. Schnitt, Farbe und Hochsteckfrisuren. Di bis Fr 9 bis 18 Uhr, Sa 9 bis 14 Uhr. Termin per Telefon.",
+   "hinweise": [
+    "Termin per Telefon",
+    "Montag geschlossen"
+   ],
+   "glas_hoch": "STARN|BERG"
+  }
+ ],
+ "bilder": {
+  "front-aubing": {
+   "datei": "aub_1.jpg",
+   "seiten": 1.3333,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "front-sendling": {
+   "datei": "sen_4.jpg",
+   "seiten": 1.3333,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "front-fuerstenried": {
+   "datei": "fuer_1.jpg",
+   "seiten": 1.3333,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "front-starnberg": {
+   "datei": "sta_3.jpg",
+   "seiten": 1.3333,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "g-aubing-wasch": {
+   "datei": "aub_5.jpg",
+   "seiten": 1.5,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "g-sendling-raum": {
+   "datei": "sen_1.jpg",
+   "seiten": 1.5,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "g-starnberg-plaetze": {
+   "datei": "sta_6.jpg",
+   "seiten": 1.5,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "g-fuerstenried-warten": {
+   "datei": "fuer_4.jpg",
+   "seiten": 1.5,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "g-aubing-raum": {
+   "datei": "aub_3.jpg",
+   "seiten": 1.5,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  },
+  "g-sendling-wasch": {
+   "datei": "sen_6.jpg",
+   "seiten": 1.5,
+   "breiten": [
+    900,
+    1300
+   ],
+   "hochrechnen": 2.0,
+   "kontrast": 1.03
+  }
+ }
+}
